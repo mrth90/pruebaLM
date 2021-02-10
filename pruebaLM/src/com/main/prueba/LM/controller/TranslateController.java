@@ -2,7 +2,7 @@ package com.main.prueba.LM.controller;
 
 import com.main.prueba.LM.services.ITranslateService;
 
-public class TranslateController {
+public class TranslateController  {
 
 
 	private ITranslateService translateService;
